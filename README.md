@@ -1,8 +1,8 @@
 # ProyectoWeb
-Proyecto del tercer periodo
-
-Integrantes:\n
-Amaya Menendez, Hector Ernesto\n
-Canizalez Salinas, Julio Eduardo\n
-Magaña Urrutia, Juan Sebastian\n
+Proyecto del tercer periodo<br>
+<br>
+Integrantes:<br>
+Amaya Menendez, Hector Ernesto<br>
+Canizalez Salinas, Julio Eduardo<br>
+Magaña Urrutia, Juan Sebastian<br>
 Martinez Pérez, César Iván
