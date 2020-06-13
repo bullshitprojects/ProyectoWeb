@@ -1,0 +1,53 @@
+.bienvenidos {
+  background: url("../../assets/img/avanza_con_nosotros.jpg");
+  background-size: cover;
+  height: 42vh;
+  overflow: hidden;
+}
+
+.img-fluid.bienvenida {
+  float: left;
+}
+
+.text-white.text_bienvenidos {
+  text-transform: uppercase;
+  padding-top: 3rem;
+  padding-left: 1.8rem;
+}
+
+.text-center.text-white.col-md-6.pbienvenidos {
+  font-size: 1.1rem !important;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.list-group-horizontal .list-group-item:first-child {
+  border: none;
+}
+
+.list-group-horizontal .list-group-item:last-child {
+  border: none;
+}
+
+.list-group.list-group-horizontal.groupconf {
+}
+
+.row.projects {
+  padding: 2rem;
+}
+
+.projects-horizontal.BCconf {
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+}
+
+.article-list.CAconf {
+  background-color: #011627;
+  opacity: .90;
+}
+
+.cconfg {
+  margin: 2rem;
+}
+
